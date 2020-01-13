@@ -33,7 +33,7 @@ WebGL has to be installed.
 ### Project state: 
 incl. progress in percent
 
-20%
+100%
 
 ### Limitations: 
 None
@@ -41,6 +41,7 @@ None
 ### Lessons Learned: 
 * Switch Platform from Standalone to WebGL
 * Build WebGL Github Pages, with docs
-
+* Use Empty Game Objects to define random spawn positions
+* Random Range for Random Object Positions
 
 Copyright by celiasch
